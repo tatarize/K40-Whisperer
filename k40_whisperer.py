@@ -23,7 +23,7 @@ title_text = "K40 Whisperer V"+version
 import sys
 from math import *
 from egv import egv
-from nano_library import K40_CLASS
+from nano_library_dll import K40_CLASS
 from dxf import DXF_CLASS
 from svg_reader import SVG_READER
 from svg_reader import SVG_TEXT_EXCEPTION
